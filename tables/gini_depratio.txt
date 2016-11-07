@@ -1,0 +1,37 @@
+	(1)	(2)
+VARIABLES	err	SR
+		
+err		-0.113***
+		(0.0209)
+D.WageTax_total		-0.0282***
+		(0.00789)
+D.ent1		-0.00157
+		(0.00957)
+D.pct_black		-0.122
+		(0.180)
+D.dep_ratio		0.413***
+		(0.115)
+D.patents_percapita		0.00830
+		(0.00541)
+D.College		-0.0243*
+		(0.0137)
+D.fire_pct		-0.0470**
+		(0.0232)
+WageTax_total	0.158	
+	(0.250)	
+ent1	0.801*	
+	(0.451)	
+pct_black	-1.343	
+	(4.296)	
+dep_ratio	-1.632	
+	(2.474)	
+patents_percapita	0.100	
+	(0.0836)	
+College	-0.233	
+	(0.474)	
+fire_pct	1.461	
+	(1.353)	
+		
+Observations	1,750	1,750
+Standard errors in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		

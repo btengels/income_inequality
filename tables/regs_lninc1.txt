@@ -1,0 +1,11 @@
+	(1)
+VARIABLES	ln_inc_ineq1
+	
+L.ln_fire_pct	-0.212***
+	(0.0496)
+	
+Observations	700
+Number of cofips	50
+R-squared	0.346
+Robust standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	

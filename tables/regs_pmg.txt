@@ -1,0 +1,29 @@
+	(1)	(2)
+VARIABLES	__ec	SR
+		
+__ec		-0.413***
+		(0.0338)
+D.ent1		0.00192
+		(0.00242)
+D.pct_black		-174.5*
+		(95.95)
+D.pct_retired		11.65
+		(31.83)
+D.patents_percapita		0.0327*
+		(0.0198)
+D.College		-15.39***
+		(5.293)
+ent1	0.0183***	
+	(0.00321)	
+pct_black	-7.288	
+	(16.32)	
+pct_retired	146.5***	
+	(11.92)	
+patents_percapita	0.0274***	
+	(0.00692)	
+College	84.00***	
+	(4.547)	
+		
+Observations	1,750	1,750
+Standard errors in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		
